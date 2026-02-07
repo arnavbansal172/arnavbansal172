@@ -1,7 +1,7 @@
-<h1 align="center">Hey there! I'm Arnav Bansal 👋</h1>
+<h1 align="center">Hey there! I'm Arnav 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer;Cybersecurity+Enthusiast;AI%2FML+Explorer;Building+Secure+%26+Scalable+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Cybersecurity+Enthusiast;AI%2FML+Explorer;Building+Secure+%26+Scalable+Solutions" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 ## 🚀 About Me
 
 - 🔭 Currently working on **Aadhaar-based secure authentication systems**
-- 🌱 Learning **C** **AI/ML**, and **Enterprise Security**
+- 🌱 Learning **C**,**Enterprise Security**, **GCP**, and **AI/ML**
 - 💼 Interested in **FinTech**, **GovTech**, and **Cybersecurity**
 - 🎯 Goal: Building products that make digital India more secure
 
